@@ -8,3 +8,4 @@ class Generator:
         response = "Here is a response based on the information provided."
         return response
 #ghi chú
+#cjdbdibjkscjdbj
