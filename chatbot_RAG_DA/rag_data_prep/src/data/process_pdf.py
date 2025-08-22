@@ -1,4 +1,4 @@
-from PyPDF2 import PdfReader # 123
+from PyPDF2 import PdfReader 
 import json
 import os
 
