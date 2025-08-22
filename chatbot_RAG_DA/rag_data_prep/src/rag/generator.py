@@ -7,6 +7,3 @@ class Generator:
         # Implement logic to generate a response based on the retrieved information
         response = "Here is a response based on the information provided."
         return response
-    #ghi chú
-    #ghi chú
-    #ghi chú
