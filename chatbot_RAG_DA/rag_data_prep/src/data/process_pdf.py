@@ -1,5 +1,5 @@
 from PyPDF2 import PdfReader 
-import json
+import json # tải JSON
 import os
 
 def extract_text_from_pdf(pdf_path):
